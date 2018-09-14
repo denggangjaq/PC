@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<!--#include file="inc/head.inc"-->
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+
+	<!-- 页面设计：微聚cp | 页面制作：微聚cp | 创建：2018-05-21 -->
+</head>
+<body>
+	<div class="kv container"><img src="./ossweb-img/kv.jpg" alt="header-banner"></div>
+	<!--一、 秋日祭 四重奏 -->
+	<!-- 背景框 -->
+	<div class="content container">
+			<!--1. 秋日祭四重奏 -->
+			<div class="content1-box">
+				<div class="title1">
+						<div class="content-ti-img">
+							<div class="shan"></div>
+							<div class="title-text"><img src="./ossweb-img/1/title1.png" alt=""></div>
+						</div>
+				</div>
+					<ul>
+						<li><p>节日礼包</p></li>
+						<li><p>崭新体验</p></li>
+						<li><p>秋日活动</p></li>
+						<li><p>全新角色</p></li>
+					</ul>
+				<!--  -->
+			</div>
+
+			<!--2. 等级礼包大放送 -->
+			<div class="rank-gift">
+					<div class="rank-bg">
+						<div class="shan2"></div>
+						<div class="rank-text"><img src="./ossweb-img/2/title2.png" alt=""></div>
+					</div>
+					<div class="care">领取后请前往内邮箱查收~如果延迟,请你不要着急！！！</div>
+					<ul class="gift-give">
+						<li>
+							<div class="puzzle">
+							<img src="./ossweb-img/2/puzzle.png" alt="迷子">
+							<div class="puzzle-num">迷子X<span>100</span></div>
+							<div class="isgit">已领取</div>
+							</div>
+						</li>
+						<li>
+							<div class="puzzle rotat1">
+							<img src="./ossweb-img/2/puzzle.png" alt="迷子">
+							<div class="puzzle-num">迷子X<span>100</span></div>
+							<div class="isgit">已领取</div>
+							</div>
+						</li>
+						<li><div class="puzzle rotat2">
+							<img src="./ossweb-img/2/puzzle.png" alt="迷子">
+							<div class="puzzle-num">迷子X<span>100</span></div>
+							<div class="isgit">已领取</div>
+							</div></li>
+						<li><div class="puzzle rotat3">
+							<img src="./ossweb-img/2/puzzle.png" alt="迷子">
+							<div class="puzzle-num">迷子X<span>100</span></div>
+							<div class="isgit">已领取</div>
+							</div></li>
+					</ul>
+
+					<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<!-- 3.秋日祭 新玩法 -->
+			<div class="gabol">
+					<img src="./ossweb-img/3/title3.png" alt="秋日祭 新玩法">
+			</div>
+			<div class="new-play">
+					<ul>
+						<li><img src="./ossweb-img/3/qw_1.png" alt="抓娃娃"></li>
+						<li><p> 意外事件就是再关卡结算时可能随机触发新的战斗~触发的时候会自动分享给社团和和好友中的所有在线玩家~此外还可以主动在挑战意外事件界面中探索全主动触发。意外事件就是再关卡结算时可能随机触发新的战斗~</p></li>
+						<li>
+							<div class="new-pg">
+								<img src="./ossweb-img/3/img_03.jpg" alt="">
+							</div>
+						</li>
+						<li><img src="./ossweb-img/3/qw_2.png" alt=""></li>
+					</ul>
+			</div>
+
+		<div class="clear"></div>
+	</div>
+
+	<!--二、 灵境秋日祭开启 -->
+	<div class="content2 container ">
+		<div class="title3">
+			<img src="./ossweb-img/4/title3.png" alt="灵境秋日祭开启">
+		</div>
+		<div class="start-one">
+			<img src="./ossweb-img/4/start-img.png" alt="全新地图">
+		</div>
+		<div class="start-two">
+			<ul>
+				<li>
+					<div class="new-pandent-title"><img src="./ossweb-img/4/left-title.jpg" alt=""></div>
+					<div class="new-content-seek">
+						<div class="nature-car"><img src="./ossweb-img/4/mizi.png" alt=""></div>
+						<div class="nature-name"><h2>秋日落叶</h2></div>
+						<div class="btn2">
+							<div class="left-btn"><img src="./ossweb-img/4/left-btn.png" alt="左按钮"></div>
+							<div class="right-btn"><img src="./ossweb-img/4/right-btn.png" alt="右按钮"></div>
+						</div>
+
+					</div>
+				
+					<div class="nature">
+							<h3>暴击率 + %50</h3>
+							<h5>(对全角色生效)</h5>
+					</div>
+				</li>
+				<li>
+					<div class="right-brief">
+						<div class="carbon">
+							<div><span>副本介绍: </span><span>我是简介我是简介，我是简介。</span></div>
+							<div><span>意外事件: </span><span>我是简介我是简介，我是简介。</span></div>
+						</div>
+					</div>
+					<div class="labor-box">
+					</div>
+					<div class="labor-box1">
+						我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述我是描述
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	<!--三、 限定角色 秋日解禁 -->
+<div class="content3 container">
+		<div class="gabol">
+					<img src="./ossweb-img/5/title5.png" alt="秋日祭 新玩法">
+		</div>
+
+		<div class="limit-img">
+			<div class="role-img">
+				<img src="./ossweb-img/5/role_img_03.png" alt="">
+				<div class="nature-inco"><img src="./ossweb-img/5/long_03.png" alt=""></div>
+			</div>
+
+			<ul class="ability-name">
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+			</ul>
+			<!-- 右侧属性介绍 -->
+			<div class="right-skill">
+				<div class="skill-bg">
+					<div class="skill-bg-ti"><img src="./ossweb-img/5/t1.png" alt=""></div>
+					<div class="skill-bg-ms"><img src="./ossweb-img/5/tt.png" alt=""></div>
+				</div>
+				<div class="skill-name">
+					<h3>东宫理会</h3>
+				</div>
+				<div class="skill-simple">
+					<div class="line-img"></div>
+						<p><span>简介:</span>我是简介我是简介，我是简介我是简介。我是简介我是简介，我是简介我是，简介我是简介，我是简介我是简介。</p>
+					<div class="line-img"></div>
+				</div>
+				<div class="play-img">
+					<div class="play-btn">
+						<div class="btn"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="limit-img">
+			<div class="role-img">
+				<img src="./ossweb-img/5/role_img_04.png" alt="">
+				<div class="nature-inco"><img src="./ossweb-img/5/long_03.png" alt=""></div>
+			</div>
+
+			<ul class="ability-name">
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+				<li>
+					<div class="ablility-img"></div>
+					<div class="ablility-n">
+						火焰卓日
+					</div>
+					<div class="ablility-a">
+						技能点：<span>1</span>
+					</div>
+				</li>
+			</ul>
+			<!-- 右侧属性介绍 -->
+			<div class="right-skill">
+				<div class="skill-bg">
+					<div class="skill-bg-ti"><img src="./ossweb-img/5/t1.png" alt=""></div>
+					<div class="skill-bg-ms"><img src="./ossweb-img/5/tt1.png" alt=""></div>
+				</div>
+				<div class="skill-name">
+					<h3>东宫理会</h3>
+				</div>
+				<div class="skill-simple">
+					<div class="line-img"></div>
+						<p><span>简介:</span>我是简介我是简介，我是简介我是简介。我是简介我是简介，我是简介我是，简介我是简介，我是简介我是简介。</p>
+					<div class="line-img"></div>
+				</div>
+				<div class="play-img">
+					<div class="play-btn">
+						<div class="btn"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+	<div id="gfooter" ams="AMS地址[必填，询问对应内部重构]" age="年龄[询问对应内部重构或者产品]" dark="1" ieg-logo="0">
+	<!-- <div class="foot_top"> any HTML code </div> -->
+	<a target="_blank" href="http://www.qq.com/" title="logo1" class="foot_left logo1">logo1</a>
+	<a target="_blank" href="http://www.qq.com/" title="logo2" class="foot_left logo2">logo2</a>
+	<p class="copyright_txt">COPYRIGHT &©Smilegate Entertainment. All rights reserved.</p>
+	<!-- <div class="foot_bottom"> any HTML code </div> -->
+	</div>
+	<script src="//game.gtimg.cn/images/js/2018foot/foot.js"></script>
+	<script  src="//ossweb-img.qq.com/images/js/title.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/index.js"></script>
+</body>
+</html>
+
